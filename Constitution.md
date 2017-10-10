@@ -68,6 +68,7 @@
 <li>**GENERAL MEETINGS**
   <ol type='a'>
     <li>There shall be an Annual General Meeting once per annum, and this shall be during the 2nd Term.</li>
+    <li>Notice of such meetings must be sent to the society’s membership via email with at least fourteen days’ notice.  An agenda must be sent out with at least three days’ notice. The agenda must contain at minimum a list of all candidates and motions to be voted upon.</li>
     <li>Quorum of such meetings shall be set at twice the committee size plus one</li>
     <li>An Emergency General Meeting may be called either by the Committee or by twice the filled committee posts-plus one (15) of the membership of the Society, or 5 members, whichever is larger, by application to the Committee. An EGM shall be called as specified on the application, but at least 7 days notice shall be given.</li>
     <li>Should any person present at a General Meeting behave in a disorderly or offensive manner such that the meeting is severely disrupted, then the Chair of the General Meeting may, at his discretion, eject that person from the meeting</li>
