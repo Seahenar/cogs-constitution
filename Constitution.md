@@ -1,17 +1,17 @@
-<ol type='1'><li>**NAME**
+<ol type='1'><li><b>NAME</b>
   <ol type='a'>
     <li>The name of the Society shall be The University of Bristol Computer Gaming Society</li>
     <li>The Society shall be recognised by the University of Bristol Union</li>
   </ol>
 </li>
-<li>**AIMS**
+<li><b>AIMS</b>
   <ol type='a'>
     <li>To provide a gaming community for members to play and discuss computer games of all genres.</li>
     <li>Where appropriate to provide the means, equipment or place for tournaments agreed upon by the committee.</li>
     <li>The society shall aim always to abide by the Union’s Equal Opportunities and Harassment Policies.</li>
   </ol>
 </li>
-<li>**MEMBERSHIP**
+<li><b>MEMBERSHIP</b>
   <ol type='a'>
     <li>Full membership is open to all members of the Union by application in writing or email to the Committee of the Society.</li>
     <li>Associate membership is open to all other Union members whether Associate, Staff or Honorary.</li>
@@ -20,14 +20,14 @@
     <li>There shall be a subscription fee levied for membership, which shall be fixed at the discretion of the committee</li>
   </ol>
 </li>
-<li>**PRIVILEGES OF MEMBERSHIP**
+<li><b>PRIVILEGES OF MEMBERSHIP</b>
   <ol type='a'>
     <li>Only full members of the society may sit on the committee</li>
     <li>All categories of membership shall have equal rights of voting and attending meetings.</li>
     <li>If any member should misuse facilities provided or are behaving in a manner deemed inappropriate by the Committee, the Committee reserves the right to rescind membership or privileges of the member.</li>
   </ol>
 </li>
-<li>**COMMITTEE**
+<li><b>COMMITTEE</b>
   <ol type='a'>
     <li>There shall be a committee of the society which shall be the executive decision making body of the society.</li>
     <li>The President of the Committee shall be a full member of the Union</li>
@@ -46,12 +46,12 @@
     </li>
   </ol>
 </li>
-<li>**HONORARY OFFICERS**
+<li><b>HONORARY OFFICERS</b>
   <ol type='a'>
     <li>Honorary Officers may be appointed by the Committee if ratified at a properly constituted Meeting.</li>
   </ol>
 </li>
-<li>**FINANCIAL**
+<li><b>FINANCIAL</b>
   <ol type='a'>
     <li>The Treasurer of the society shall be a full member of the Union and not in their final year at the University</li>
     <li>The accounts of the Society shall be submitted to the Union for audit as and when requested and at least once per annum.</li>
@@ -65,7 +65,7 @@
     </li>
   </ol>
 </li>
-<li>**GENERAL MEETINGS**
+<li><b>GENERAL MEETINGS</b>
   <ol type='a'>
     <li>There shall be an Annual General Meeting once per annum, and this shall be during the Spring Term.</li>
     <li>Notices of such meetings must be published by email to the members at least seven days beforehand, together with the Agenda.</li>
@@ -74,7 +74,7 @@
     <li>Should any person present at a General Meeting behave in a disorderly or offensive manner such that the meeting is severely disrupted, then the Chair of the General Meeting may, at his discretion, eject that person from the meeting</li>
   </ol>
 </li>
-<li>**ELECTIONS**
+<li><b>ELECTIONS</b>
   <ol type='a'>
     <li>Elections shall be held at the Annual General Meeting to elect officers of the committee for the following session</li>
     <li>There shall be provision for by-elections to be held at an EGM in October should there be vacant committee posts.</li>
@@ -85,12 +85,12 @@
     <li>In the case of a tied ballot, the Returning Officer shall have the deciding vote.</li>
   </ol>
 </li>
-<li>**AFFILIATIONS**
+<li><b>AFFILIATIONS</b>
   <ol type='a'>
     <li>The society shall affiliate to external bodies only where membership of those bodies is essential to the fulfilment of the core aims, and only with the prior agreement of the Union’s Societies Executive Committee</li>
   </ol>
 </li>
-<li>**CONSTITUTIONAL AMENDMENTS**
+<li><b>CONSTITUTIONAL AMENDMENTS</b>
   <ol type='a'>
     <li>Any amendment to this constitution shall require a two-thirds majority of the members present at a properly constituted General Meeting.</li>
     <li>All such amendments shall become valid only after approval by Student Council</li>
