@@ -1,17 +1,17 @@
-<ol type='1'><li>**NAME**
+<ol type='1'><li><b>NAME</b>
   <ol type='a'>
     <li>The name of the Society shall be The University of Bristol Computer Gaming Society</li>
     <li>The Society shall be affiliated to the University of Bristol Students' Union</li>
   </ol>
 </li>
-<li>**AIMS**
+<li><b>AIMS</b>
   <ol type='a'>
     <li>To provide a gaming community for members to play and discuss computer games of all genres.</li>
     <li>Where appropriate to provide the means, equipment or place for tournaments agreed upon by the committee.</li>
     <li>The society shall abide by the Union’s Equal Opportunities and Harassment Policies, and any other policies laid down by the Union's Board of Trustees.</li>
   </ol>
 </li>
-<li>**MEMBERSHIP**
+<li><b>MEMBERSHIP</b>
   <ol type='a'>
     <li>Full membership is open to all full members of the Union by application to the Society.</li>
     <li>Associate membership is open to all other persons who are associate members of the Union.</li>
@@ -21,13 +21,13 @@
     <li>The Committee shall have the power to remove a member from their society if they believe them to have violated the Union’s Equal Opportunities and Harassment Policies, and any other policies laid down by the Union’s Board of Trustees. The decision is subject to ratification by the Societies Exec. The appeals process shall be that laid down in the Union Byelaws.</li>
   </ol>
 </li>
-<li>**PRIVILEGES OF MEMBERSHIP**
+<li><b>PRIVILEGES OF MEMBERSHIP</b>
   <ol type='a'>
     <li>Only members may sit on the committee</li>
     <li>All categories of membership shall have equal rights of voting, attending meetings etc.</li>
   </ol>
 </li>
-<li>**COMMITTEE**
+<li><b>COMMITTEE</b>
   <ol type='a'>
     <li>There shall be a committee of the society which shall be the executive decision making body of the society.</li>
     <li>The President of the Committee shall be a full member of the Union</li>
@@ -47,12 +47,12 @@
     </li>
   </ol>
 </li>
-<li>**HONORARY OFFICERS**
+<li><b>HONORARY OFFICERS</b>
   <ol type='a'>
     <li>Honorary Officers may be appointed by the Committee if ratified at a properly constituted Meeting.</li>
   </ol>
 </li>
-<li>**FINANCIAL**
+<li><b>FINANCIAL</b>
   <ol type='a'>
     <li>The Treasurer of the society shall be a full member of the Union and not in their final year at the University. However, if given approval by the Bristol SU Societies Executive Committee a final year student may take the position.</li>
     <li>All financial arrangements must be made in accordance with current instructions to Society Treasurers, as set down by the Societies Exec.</li>
@@ -65,7 +65,7 @@
     </li>
   </ol>
 </li>
-<li>**GENERAL MEETINGS**
+<li><b>GENERAL MEETINGS</b>
   <ol type='a'>
     <li>There shall be an Annual General Meeting once per annum, and this shall be during the 2nd Term.</li>
     <li>Notice of such meetings must be sent to the society’s membership via email with at least fourteen days’ notice.  An agenda must be sent out with at least three days’ notice. The agenda must contain at minimum a list of all candidates and motions to be voted upon.</li>
@@ -76,7 +76,7 @@
     <li>Minutes from General Meetings must be published and made available to all members of the society.</li>
   </ol>
 </li>
-<li>**ELECTIONS**
+<li><b>ELECTIONS</b>
   <ol type='a'>
     <li>Elections shall be held at the Annual General Meeting to elect officers of the committee for the following annual session</li>
     <li>There shall be provision for by-elections to be held at an EGM in October at the latest should there be vacant committee posts.</li>
@@ -85,7 +85,7 @@
     <li>In the case of a tied ballot, the Returning Officer shall have the deciding vote.</li>
   </ol>
 </li>
-<li>**MOTIONS**
+<li><b>MOTIONS</b>
   <ol type='a'>
     <li>Motions may be called at any properly constituted General Meeting.</li>
     <li>Any motions must be submitted at least three days prior to the day of the General Meeting by formal email to the committee collaborative inbox, or specified as part of an EGM application.
@@ -93,12 +93,12 @@
     <li>All motions shall require a two-thirds majority of the members present at a properly constituted General Meeting to be passed</li>
   </ol>
 </li>
-<li>**AFFILIATIONS**
+<li><b>AFFILIATIONS</b>
   <ol type='a'>
     <li>The society shall affiliate to external bodies only where membership of those bodies is essential to the fulfilment of the core aims, and only with the prior agreement of the Union’s Societies Exec</li>
   </ol>
 </li>
-<li>**CONSTITUTIONAL AMENDMENTS**
+<li><b>CONSTITUTIONAL AMENDMENTS</b>
   <ol type='a'>
     <li>Any amendment to this constitution shall require a two-thirds majority of the members present at a properly constituted General Meeting.</li>
     <li>All such amendments shall become valid only after approval by Student Council</li>
