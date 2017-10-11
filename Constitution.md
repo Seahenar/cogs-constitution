@@ -69,8 +69,8 @@
 </li>
 <li><b>GENERAL MEETINGS</b>
   <ol type='a'>
-    <li>There shall be an Annual General Meeting (AGM) once per annum, and this shall be during the second term.</li>
-    <li>Notice of such meetings must be sent to the society’s membership via email with at least fourteen days’ notice.  An agenda must be sent out with at least three days’ notice. The agenda must contain at minimum a list of all candidates and motions to be voted upon.</li>
+    <li>There shall be an Annual General Meeting (AGM) once per annum, and this shall be during the second term. Where possible, this should occur prior to the final LAN of the academic year.</li>
+    <li>Notice of such meetings must be sent to the society’s membership via email with at least fourteen days’ notice.  An agenda must be sent out with at least two days’ notice, as soon after the deadline for applications and motions as possible. The agenda must contain at minimum a list of all candidates and motions to be voted upon.</li>
     <li>Quorum of such meetings shall be set at twice the filled Committee positions plus one (e.g fifteen for a full Committee).</li>
     <li>An Emergency General Meeting (EGM) may be called either by the Committee or by twice the filled Committee positions plus one (e.g fifteen for a full Committee) of the membership of the Society, or five members, whichever is larger, by application to the Committee. An EGM shall be called as specified on the application, but at least seven days notice shall be given.</li> 
     <li>Should any person present at a General Meeting behave in a disorderly or offensive manner such that the meeting is severely disrupted, then the Chair of the General Meeting may, at his discretion, eject that person from the meeting.</li>
@@ -82,7 +82,7 @@
   <ol type='a'>
     <li>Elections shall be held at the Annual General Meeting to elect officers of the Committee for the following annual session.</li>
     <li>There shall be provision for by-elections to be held at an EGM in October at the latest should there be vacant Committee positions.</li>
-    <li>All positions must be applied for three days prior to the day of elections by formal email to the Committee collaborative inbox. Only positions that have not been applied for before this deadline can be applied for on the day of the elections.</li>
+    <li>All positions must be applied for at least three days prior to the day of elections by formal email to the Committee collaborative inbox. Only positions that have not been applied for before this deadline can be applied for on the day of the elections.</li>
     <li>Voting shall be carried out by exhaustive ballot and be carried out by a show of hands at a properly constituted General Meeting.</li>
     <li>In the case of a tied ballot, the Returning Officer shall have the deciding vote.</li>
   </ol>
