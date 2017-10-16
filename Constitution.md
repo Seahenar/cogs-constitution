@@ -45,6 +45,7 @@
         <li>Techmater – the Techmater shall be responsible for services that the members interact with as well as their content and all servers. This includes (but is not limited to) the website, IRC services, Discord, and game servers.</li>
         <li>E-Sports Rep – Responsible for the organisation and coordination of participations in e-sports competitions and events.</li>
         <li>Social Sec – Responsible for the organisation and running of social events outside of LANs.</li>
+        <li>Industry Rep - Responsible for liasing with external companies for the benefit of the society.</li>
       </ol>
     </li>
   </ol>
