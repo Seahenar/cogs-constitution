@@ -44,7 +44,7 @@
         <li>Treasurer – The Treasurer shall be in charge of all society monies in accordance with the constitution of the society and the current instruction to society treasurers by the Union. The Treasurer shall be responsible for the collection of membership fees from prospective members and shall make arrangements for them to join at any stage during term time.</li>
         <li>Techmater – the Techmater shall be responsible for services that the members interact with as well as their content and all servers. This includes (but is not limited to) the website, IRC services, Discord, and game servers.</li>
         <li>E-Sports Rep – Responsible for the organisation and coordination of participations in e-sports competitions and events.</li>
-        <li>Ents Rep – Responsible for the organisation and running of social events outside of LANs.</li>
+        <li>Social Sec – Responsible for the organisation and running of social events outside of LANs.</li>
       </ol>
     </li>
   </ol>
