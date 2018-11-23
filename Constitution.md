@@ -42,10 +42,10 @@
         <li>Vice President – The Vice President shall act as a deputy for the President, and should the need arise the Vice President can act in stead for the President.</li>
         <li>Secretary – The Secretary shall be responsible for taking minutes at meetings and ensuring all paperwork for the Society is completed.</li>
         <li>Treasurer – The Treasurer shall be in charge of all society monies in accordance with the constitution of the society and the current instruction to society treasurers by the Union. The Treasurer shall be responsible for the collection of membership fees from prospective members and shall make arrangements for them to join at any stage during term time.</li>
-        <li>Techmater – the Techmater shall be responsible for services that the members interact with as well as their content and all servers. This includes (but is not limited to) the website, Discord, and game servers.</li>
-        <li>E-Sports Rep – Responsible for the organisation and coordination of participations in e-sports competitions and events.</li>
-        <li>Social Sec – Responsible for the organisation and running of social events outside of LANs.</li>
-        <li>Industry Rep - Responsible for liasing with external companies for the benefit of the society.</li>
+        <li>Techmater – The Techmater shall be responsible for services that the members interact with as well as their content and all servers. This includes (but is not limited to) the website, Discord, and game servers.</li>
+        <li>ESports Representative – The eSports Representative shall be responsible for the organisation and coordination of participations in e-sports competitions and events.</li>
+        <li>Social Secretary – The Social Secretary shall be responsible for the organisation and running of social events outside of LANs.</li>
+        <li>Industry Representative – The Industry Representative shall be responsible for liasing with external companies for the benefit of the society.</li>
       </ol>
     </li>
   </ol>
